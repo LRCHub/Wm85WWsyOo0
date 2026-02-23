@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Overfly",
+  "base_artist": "Luna Haruna",
+  "createdAt": "2026-02-23T11:56:31.933480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/01_Overfly_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Haruna Luna",
+      "has_synced": true,
+      "path": "select/02_Overfly_Haruna_Luna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Haruna Luna",
+      "has_synced": true,
+      "path": "select/03_Overfly_Haruna_Luna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overfly -TV size ver.-",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/04_Overfly_-TV_size_ver.-_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Overfly (TV size ver.)",
+      "artist": "Haruna Luna",
+      "has_synced": true,
+      "path": "select/05_Overfly_(TV_size_ver.)_Haruna_Luna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": true,
+      "path": "select/06_Overfly_春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overfly (From \"Sword Art Online\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Overfly_(From__Sword_Art_Online_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": true,
+      "path": "select/08_Overfly_春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Overfly -orchestra ver.-",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/09_Overfly_-orchestra_ver.-_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overfly -orchestra ver.-",
+      "artist": "春奈るな",
+      "has_synced": true,
+      "path": "select/10_Overfly_-orchestra_ver.-_春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Overfly (Sword Art Online)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_Overfly_(Sword_Art_Online)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/12_Overfly_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/13_Overfly_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/14_Overfly_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Overfly",
+      "artist": "Haruna Luna",
+      "has_synced": true,
+      "path": "select/15_Overfly_Haruna_Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_01_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_02_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_03_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_04_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_05_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_06_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_07_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_08_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_09_Overfly_春奈るな.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Overfly",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_10_Overfly_春奈るな.txt"
+    }
+  ]
+}
